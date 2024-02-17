@@ -70,6 +70,7 @@ Technologies Used:
 
 ## Let's Connect!
 - 🐦 Twitter: [Symon](https://twitter.com/symonopo)
+- 💼 LinkedIn:[Symon](https://www.linkedin.com/in/symon-opondi-61448b18b)
 
 Let's chat code, collaborate, and build something amazing together! Feel free to reach out for collaborations or just to say hi! 🌟
 
