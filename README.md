@@ -9,7 +9,7 @@ I'm a passionate JavaScript developer diving into the world of React. My journey
 - 🌐 Proficient in Web Development
 - ✅ Experienced in Unit Testing
 - 🔄 Proficient in Git and GitHub
-- ✍️ Learning in TypeScript
+- ✍️ Learning TypeScript
 
 ## Projects
 Here are a few projects I'm proud of:
