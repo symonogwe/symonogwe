@@ -34,7 +34,7 @@ Technologies Used:
 ### Game Hub
 - [Game Hub](https://symon-game-hub.vercel.app/) - The Mini Game Hub is a showcase project that demonstrates how to utilize the rawg.io API to build a game hub. This project emphasizes fetching data using Axios, handling errors gracefully, and providing a seamless user experience with loading skeletons. Additionally, it leverages Chakra UI for sleek and responsive design, and TypeScript for enhanced code clarity and error checking.
 ### Memory Card Game
-- [Memory Card Game](https://symon-opo-memory-card-project.netlify.app/) - This project aims to create a memory card game where users can test their memory skills by clicking on cards to select them. The game logic is simple yet engaging: clicking on a card increments the score, but clicking on the same card twice in a round resets the score to 0. The game keeps track of the current score and the highest score achieved by the user.
+- [Memory Card Game](https://symon-opo-memory-card-project.netlify.app/) - This project aims to create a memory card game where users can test their memory skills by clicking on cards to select them. The game logic is simple yet engaging: clicking on a card increments the score, but clicking on the same card twice in a round resets the score to 0. The game keeps track of the current score and the highest score achieved by the user. Tested the application using react-testing-library to ensure the game functions as intended. Used Mock Service Worker to mock the fetched response from the "https://rickandmortyapi.com/" API.
 
 Features:
 
@@ -43,6 +43,13 @@ Features:
 - Game Over on Duplicate Click: Reset score to 0 if the same card is clicked twice in a round.
 - Highest Score Tracking: Keep track of the user's highest achieved score.
 - React & Hooks: Utilizes React and hooks like useState and useEffect for state management while fetching data from an external API.
+
+Technologies Used:
+- React
+- Jest
+- React Testing Library
+- Vitest
+- Mock Service Worker
   
 ### Battleships Game 
 - [Javascript BattleShips game](https://symonogwe.github.io/Battleship-game/) - This project is a web-based implementation of the classic Battleships game, where players strategically place ships on a grid and take turns trying to sink each other's fleet.
@@ -69,7 +76,7 @@ Features:
 - Click on a task to mark it as complete or delete it.
   
 ### Weather App
-- [Weather App](https://symonogwe.github.io/Weather-App/) -This weather app harnesses the power of the www.weatherapi.com to provide users with up-to-date weather information for their desired location. Developed with a focus on asynchronous programming in JavaScript, this project demonstrates proficiency in handling asynchronous tasks efficiently. It utilizes promises, async/await syntax, and the native fetch API to ensure smooth data retrieval and display.
+- [Weather App](https://symonogwe.github.io/Weather-App/) -This weather app harnesses the power of the www.weatherapi.com to provide users with up-to-date weather information for their desired location. Developed with a focus on asynchronous programming in JavaScript, this project demonstrates proficiency in handling asynchronous tasks efficiently. It utilizes promises, async/await syntax and the native fetch API to ensure smooth data retrieval and display.
 
 Features:
 
