@@ -22,12 +22,6 @@ Features:
 - Allows users to search for the games by genres, platform, and relevance
 - Provides functionality to also search for a game in the text field and displays loading skeletons while fetching the games
 
-Technologies Used:
-- React
-- Chakra Ui
-- TypeScript
-- React-icons
-- Axios
   
 ### Game Hub
 - [Game Hub](https://symon-game-hub.vercel.app/) - The Mini Game Hub is a showcase project that demonstrates how to utilize the rawg.io API to build a game hub. This project emphasizes fetching data using Axios, handling errors gracefully, and providing a seamless user experience with loading skeletons. Additionally, it leverages Chakra UI for sleek and responsive design, and TypeScript for enhanced code clarity and error checking.
@@ -39,6 +33,12 @@ Features:
 - Provides functionality to delete items from the cart
 - Tested using Jest and React Testing Library
 
+Technologies Used:
+- React
+- Chakra Ui
+- TypeScript
+- React-icons
+- Axios
   
 ### Memory Card Game
 - [Memory Card Game](https://symon-opo-memory-card-project.netlify.app/) - This project aims to create a memory card game where users can test their memory skills by clicking on cards to select them. The game logic is simple yet engaging: clicking on a card increments the score, but clicking on the same card twice in a round resets the score to 0. The game keeps track of the current score and the highest score achieved by the user. Tested the application using react-testing-library to ensure the game functions as intended. Used Mock Service Worker to mock the fetched response from the "https://rickandmortyapi.com/" API.
