@@ -15,16 +15,6 @@ I'm a passionate JavaScript developer diving into the world of React. My journey
 Here are a few projects I'm proud of:
 ### Mock-Shopping-Cart
 - [Mock Shopping Cart](https://mock-shopping-cart.netlify.app/) - This project is a mock e-commerce site built to test understanding of React Router, state management, and testing in React applications. It fetches mock products from fakestoreapi.com and displays them on the store page. Users can view details of each product and add them to their cart. Additionally, they can delete items from the cart. The application's behavior is tested using Jest and React Testing Library to ensure functionality.
-  
-Features:
-- Fetches mock products from "https://rawg.io/apidocs" api
-- Displays the each game genre in the side-bar and the fetched games
-- Allows users to search for the games by genres, platform, and relevance
-- Provides functionality to also search for a game in the text field and displays loading skeletons while fetching the games
-
-  
-### Game Hub
-- [Game Hub](https://symon-game-hub.vercel.app/) - The Mini Game Hub is a showcase project that demonstrates how to utilize the rawg.io API to build a game hub. This project emphasizes fetching data using Axios, handling errors gracefully, and providing a seamless user experience with loading skeletons. Additionally, it leverages Chakra UI for sleek and responsive design, and TypeScript for enhanced code clarity and error checking.
 
 Features:
 - Fetches mock products from fakestoreapi.com
@@ -32,6 +22,16 @@ Features:
 - Allows users to view product details and add items to their cart
 - Provides functionality to delete items from the cart
 - Tested using Jest and React Testing Library
+  
+
+### Game Hub
+- [Game Hub](https://symon-game-hub.vercel.app/) - The Mini Game Hub is a showcase project that demonstrates how to utilize the rawg.io API to build a game hub. This project emphasizes fetching data using Axios, handling errors gracefully, and providing a seamless user experience with loading skeletons. Additionally, it leverages Chakra UI for sleek and responsive design, and TypeScript for enhanced code clarity and error checking.
+
+Features:
+- Fetches mock products from "https://rawg.io/apidocs" API
+- Displays the each game genre in the side-bar and the fetched games
+- Allows users to search for the games by genres, platform, and relevance
+- Provides functionality to also search for a game in the text field and displays loading skeletons while fetching the games
 
 Technologies Used:
 - React
