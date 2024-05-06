@@ -1,13 +1,14 @@
 # Hi there! 👋 I'm Symon Ogwe
 
 ## About Me
-I'm a passionate JavaScript developer diving into the world of React. My journey in coding is all about transforming ideas into interactive web experiences. I love the challenge of building things from scratch and experimenting with new technologies.
+I'm a passionate developer fully immersing myself int the JavaScript ecosystem. My journey in coding is all about transforming ideas into interactive web experiences. I love the challenge of building things from scratch and experimenting with new technologies.
 
 ## Skills
 - 💻 Proficient in HTML, CSS, and JavaScript for Frontend Development
 - ⚛️ React Enthusiast
 - 🌐 Proficient in Web Development
 - ✅ Experienced in Unit Testing
+- ✅ Experienced in React UI & Component testing
 - 🔄 Proficient in Git and GitHub
 - ✍️ Learning TypeScript
 
