@@ -5,7 +5,7 @@ I'm a passionate JavaScript developer diving into the world of React. My journey
 
 ## Skills
 - 💻 Proficient in HTML, CSS, and JavaScript for Frontend Development
-- ⚛️ Mastering React
+- ⚛️ React Enthusiast
 - 🌐 Proficient in Web Development
 - ✅ Experienced in Unit Testing
 - 🔄 Proficient in Git and GitHub
